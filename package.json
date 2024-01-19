@@ -1,0 +1,25 @@
+{
+  "name": "hai",
+  "version": "1.0.0",
+  "description": "know_India",
+  "main": "index.js",
+  "scripts": {
+    "test": "hai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21pa1a0536/Know_India-CapstoneProject.git"
+  },
+  "keywords": [
+    "hai"
+  ],
+  "author": "MCC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21pa1a0536/Know_India-CapstoneProject/issues"
+  },
+  "homepage": "https://github.com/21pa1a0536/Know_India-CapstoneProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
